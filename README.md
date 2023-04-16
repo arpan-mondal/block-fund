@@ -32,7 +32,8 @@ Blockfund is a Decentralized FundRaising Platform for social causes. It's build 
 - **Step 3:** Then the owner (Only Owner) who created the cause can withdraw the funds.
 
 ## Presentaion (PPT)
-- Link: PPT will be Updated Soon 
+- Link: [BlockFund.pdf](https://github.com/arpan-mondal/block-fund/files/11242981/BlockFund.pdf)
+
 
 ## 🛠️ Tools Used
 <img width="1051" alt="tezos" src="https://user-images.githubusercontent.com/66848339/232327845-3f64d443-fc7f-4823-91a3-901526ee7adf.png">
