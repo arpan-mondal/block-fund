@@ -80,7 +80,7 @@ I didn't have time to implement it, but it'll be done in the future development.
 
 
 ## 🦾 Challenges Faced
-First of all, I want to thank `Hack the mountains` team to organize this beautiful hackathon and to give me the oppurtunity to learn and build my DAPP.
+First of all, I want to thank `TEZOS` team to organize this beautiful hackathon and to give me the oppurtunity to learn and build my DAPP.
 Before this hackathon i din't knew much about Blockchain and DAPP dev. But after joining it i spend a lot of time to research and figure out how to build DAPP.
 ### 🔍 Project Searching Face
 Initially i faced trouble setting up all the development tools needed specially for writting smart contract and deploying it. I was new to TEzos world and Blockchain in general but then i joined the Official Telegram group of SmartPy. The admin who is probably the creator of SmartPy was so helping he helped me to set up and solve even tiny bugs, i really want to thank him.
